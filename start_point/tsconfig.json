@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    // Naming the target keeps the browser out of the type-check. Left unset,
+    // tsc assumes es5, whose libraries declare every DOM global; vitest runs
+    // your tests under node, so code reaching for the DOM would type-check
+    // here and then fail when it ran. Node's own globals, console and
+    // setTimeout among them, come from @types/node and are unaffected.
+    "target": "es2022",
+    "lib": ["es2022"],
+    // vitest ships as ES modules and describes itself to tsc through the
+    // "exports" field of its package. Only these two settings teach tsc to
+    // read that field, so without them [import ... from 'vitest'] does not
+    // resolve and every test file fails to type-check.
+    "module": "esnext",
+    "moduleResolution": "bundler"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "image_name": "ghcr.io/cyber-dojo-languages/typescript_node_vitest:0aab9a8",
+  "display_name": "TypeScript 6.0.3, vitest 4.1.11",
+  "language": [
+    "TypeScript",
+    "6.0.3"
+  ],
+  "test_framework": [
+    "vitest",
+    "4.1.11"
+  ],
+  "visible_filenames": [
+    "package.json",
+    "vitest.config.ts",
+    "hiker.test.ts",
+    "hiker.ts",
+    "cyber-dojo.sh",
+    "eslint.config.mjs",
+    "tsconfig.json"
+  ],
+  "rag_lambda": "red_amber_green.rb",
+  "filename_extension": [
+    ".ts"
+  ],
+  "max_seconds": 20,
+  "tab_size": 2
+}
