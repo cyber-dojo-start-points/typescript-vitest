@@ -1,13 +1,13 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/typescript_node_vitest:0aab9a8",
-  "display_name": "TypeScript 6.0.3, vitest 4.1.11",
+  "image_name": "ghcr.io/cyber-dojo-languages/typescript_node_vitest:d751344",
+  "display_name": "TypeScript 6.0, vitest 5.0",
   "language": [
     "TypeScript",
-    "6.0.3"
+    "6.0"
   ],
   "test_framework": [
     "vitest",
-    "4.1.11"
+    "5.0"
   ],
   "visible_filenames": [
     "package.json",
