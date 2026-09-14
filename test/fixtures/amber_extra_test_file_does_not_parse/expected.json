@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^answer_size\\.test\\.ts\\([0-9]+,[0-9]+\\): error TS1005: '\\)' expected\\.$": 1,
+    "^hiker": 0,
+    "^ RUN ": 0,
+    "Test Files": 0
+  }
+}

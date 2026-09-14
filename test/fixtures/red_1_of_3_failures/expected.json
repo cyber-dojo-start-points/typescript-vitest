@@ -1,0 +1,13 @@
+{
+  "match_counts": {
+    "hiker\\.test\\.ts \\(3 tests \\| 1 failed\\)": 1,
+    "^ Test Files  1 failed \\(1\\)$": 1,
+    "^      Tests  1 failed \\| 2 passed \\(3\\)$": 1,
+    "^ FAIL  hiker\\.test\\.ts > answer > to life the universe and everything$": 1,
+    "^AssertionError: expected 54 to deeply equal 42$": 1,
+    "^- 42$": 1,
+    "^\\+ 54$": 1,
+    "^TypeError": 0,
+    "error TS": 0
+  }
+}

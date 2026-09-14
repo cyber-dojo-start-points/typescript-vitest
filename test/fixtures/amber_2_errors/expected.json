@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "hiker\\.test\\.ts \\(2 tests \\| 2 failed\\)": 1,
+    "^ Test Files  1 failed \\(1\\)$": 1,
+    "^      Tests  2 failed \\(2\\)$": 1,
+    "^ FAIL  hiker\\.test\\.ts > answer > ": 2,
+    "^TypeError: Cannot read properties of undefined \\(reading 'length'\\)$": 2,
+    "^AssertionError": 0,
+    "error TS": 0
+  }
+}

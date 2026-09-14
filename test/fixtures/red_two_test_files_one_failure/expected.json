@@ -1,0 +1,12 @@
+{
+  "match_counts": {
+    "hiker\\.test\\.ts \\(2 tests\\)": 1,
+    "answer_size\\.test\\.ts \\(2 tests \\| 1 failed\\)": 1,
+    "^ Test Files  1 failed \\| 1 passed \\(2\\)$": 1,
+    "^      Tests  1 failed \\| 3 passed \\(4\\)$": 1,
+    "^ FAIL  answer_size\\.test\\.ts > answer size > has three digits$": 1,
+    "^AssertionError: expected 2 to deeply equal 3$": 1,
+    "^TypeError": 0,
+    "error TS": 0
+  }
+}

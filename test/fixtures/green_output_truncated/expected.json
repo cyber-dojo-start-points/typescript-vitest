@@ -1,0 +1,14 @@
+{
+  "matches": [
+    "^debug: i is 1, total is 2$"
+  ],
+  "match_counts": {
+    "^debug: i is 0, total is 0$": 1,
+    "^debug: i is 1000, total is 2000$": 1,
+    "^ RUN  v[0-9.]+ /sandbox$": 1,
+    "Test Files": 0,
+    "^      Tests ": 0,
+    "error TS": 0
+  },
+  "truncated": true
+}

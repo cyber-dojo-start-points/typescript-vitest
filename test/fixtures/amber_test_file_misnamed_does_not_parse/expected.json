@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "^hiker_tests\\.ts\\([0-9]+,[0-9]+\\): error TS1109: Expression expected\\.$": 3,
+    "^ RUN ": 0,
+    "Test Files": 0
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^ RUN  v[0-9.]+ /sandbox$": 1,
+    "^No test files found, exiting with code 1$": 1,
+    "^include: ": 1,
+    "^exclude: ": 1,
+    "Test Files": 0,
+    "error TS": 0
+  },
+  "truncated": false
+}

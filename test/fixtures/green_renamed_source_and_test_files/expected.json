@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "fizz_buzz\\.test\\.ts \\(4 tests\\)": 1,
+    "^ Test Files  1 passed \\(1\\)$": 1,
+    "^      Tests  4 passed \\(4\\)$": 1,
+    "hiker": 0,
+    "failed": 0,
+    "error TS": 0
+  }
+}

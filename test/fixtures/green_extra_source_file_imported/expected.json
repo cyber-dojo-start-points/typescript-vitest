@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "hiker\\.test\\.ts \\(2 tests\\)": 1,
+    "^ Test Files  1 passed \\(1\\)$": 1,
+    "^      Tests  2 passed \\(2\\)$": 1,
+    "checksum": 0,
+    "failed": 0,
+    "error TS": 0
+  }
+}
