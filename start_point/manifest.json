@@ -1,13 +1,13 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/typescript_node_vitest:392d1e6@sha256:88fcd281e1c51f1242d0e177e3e80d75f3fd46b3952c878e16856e4ae2515234",
-  "display_name": "TypeScript 6.0.3, vitest 5.1.0",
+  "image_name": "ghcr.io/cyber-dojo-languages/typescript_node_vitest:8cbd43d@sha256:5b0aaa1048686e124c8e8c287c94c37eb08e54dd14ae7f15182479d0bdbb1089",
+  "display_name": "TypeScript 6.0.3, vitest 5.1.1",
   "language": [
     "TypeScript",
     "6.0.3"
   ],
   "test_framework": [
     "vitest",
-    "5.1.0"
+    "5.1.1"
   ],
   "visible_filenames": [
     "package.json",
